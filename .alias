@@ -1,0 +1,15 @@
+# Git
+alias g='git'
+alias gck='git checkout'
+alias gst='git status'
+alias gps='git push'
+alias gpl='git pull'
+alias gcm='git commit'
+alias gcf='git config'
+
+# Shell
+alias ls='exa --icons'
+alias cat='bat'
+alias find='fd'
+alias grep='rg'
+alias ps='procs'
